@@ -1,3 +1,1 @@
-print("Hello World!")
-print(23%4)
-
+print("This is a test.")
